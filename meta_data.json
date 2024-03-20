@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "containers"
+    },
+    "demo_page": "https://plugins-playground-23187.bubbleapps.io/version-test/sticky_plugin",
+    "description": "Enhance user engagement with the Sticky Element Plugin for Bubble. This plugin enables you to make any HTML element sticky on your page, keeping it fixed in position while scrolling.\n\nInstructions:\n\n- Enable the option to assign ID attributes to HTML elements in your app settings (Settings - General).\n- Assign unique IDs to the elements you want to make sticky on your page.\n- Specify these IDs in the plugin settings to make those elements sticky during scrolling.\n\n\nDemo :\nhttps://plugins-playground-23187.bubbleapps.io/version-test/sticky_plugin\n\nEditor: \nhttps://bubble.io/page?type=page&name=sticky_test_plugin&id=plugins-playground-23187&tab=tabs-1",
+    "image": "//meta-q.cdn.bubble.io/f1710935525042x623880000845786500/SCR-20240320-lnnb.png",
+    "license": "open_source",
+    "name": "Sticky Scroll",
+    "plugin_instructions": "- Enable the option to assign ID attributes to HTML elements in your app settings (Settings - General).\n- Assign an unique ID to the elements you want to make sticky on your page.\n- Specify this ID in the plugin settings to make those elements sticky during scrolling."
+}
